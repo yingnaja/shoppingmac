@@ -12,7 +12,7 @@ class _RiderSericeState extends State<RiderSerice> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Buyer Serivec'),
+        title: Text('Rider Serivec'),
       ),
     );
   }
